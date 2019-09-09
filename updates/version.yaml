@@ -1,0 +1,14 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table shohabbos_like_likes'
+    - builder_table_create_shohabbos_like_likes.php
+1.0.3:
+    - 'Updated table shohabbos_like_likes'
+    - builder_table_update_shohabbos_like_likes.php
+1.0.4:
+    - 'Updated table shohabbos_like_likes'
+    - builder_table_update_shohabbos_like_likes_2.php
+1.0.5:
+    - 'Created table shohabbos_like_views'
+    - builder_table_create_shohabbos_like_views.php

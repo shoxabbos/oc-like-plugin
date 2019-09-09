@@ -1,0 +1,6 @@
+plugin:
+    name: 'shohabbos.like::lang.plugin.name'
+    description: 'shohabbos.like::lang.plugin.description'
+    author: Shohabbos
+    icon: oc-icon-thumbs-up
+    homepage: 'https://itmaker.uz'

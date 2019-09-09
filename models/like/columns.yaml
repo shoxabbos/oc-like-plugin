@@ -1,0 +1,16 @@
+columns:
+    id:
+        label: id
+        type: number
+    attachment_id:
+        label: attachment_id
+        type: number
+    attachment_type:
+        label: attachment_type
+        type: text
+    created_at:
+        label: created_at
+        type: datetime
+    updated_at:
+        label: updated_at
+        type: datetime
